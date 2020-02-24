@@ -1,0 +1,9 @@
+export const SELECT_COSME = "SELECT_COSME";
+export const SUBMIT_POST = "SUBMIT_POST";
+export const POST_DETAIL = "POST_DETAIL";
+export const GET_POSTS = "GET_POSTS";
+export const PATCH_POST_FOR_FAVORITE = "PATCH_POST_FOR_FAVORITE";
+export const GET_COSMES = "GET_COSMES";
+export const SUBMIT_COSMES = "SUBMIT_COSMES";
+export const GET_RELATED_COSMES = "GET_RELATED_COSMES";
+export const GET_TAGS = "GET_TAGS";

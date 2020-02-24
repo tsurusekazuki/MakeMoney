@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cosme_name: MyString
+  cosme_content: MyText
+  bland_name: MyString
+  cosme_maker: MyString
+  cosme_money: 1
+
+two:
+  cosme_name: MyString
+  cosme_content: MyText
+  bland_name: MyString
+  cosme_maker: MyString
+  cosme_money: 1

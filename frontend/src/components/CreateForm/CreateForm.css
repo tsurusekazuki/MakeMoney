@@ -1,0 +1,120 @@
+.createForm-form {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.createForm-title {
+  margin-top: 30px;
+}
+
+.createForm-content {
+  margin-top: 30px;
+}
+
+.createForm-money {
+  margin-top: 30px;
+}
+
+.createForm-money2 {
+  margin: 30px 0;
+}
+
+.createForm-select {
+  margin: 0 23%;
+  margin-top: 30px;
+}
+
+label + .MuiInput-formControl {
+  margin-top: 16px;
+  width: 200px;
+}
+
+.createForm-h4 {
+  text-align: center;
+  /* color: rgb(143, 143, 143); */
+  color: black;
+  font-weight: bold;
+  margin-bottom: -20px;
+}
+
+.createForm-button {
+  margin-top: 60px;
+}
+
+.createForm-button2 {
+  margin-top: 20px;
+}
+
+.reateForm-image {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.createForm-circle {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.MuiButton-outlinedPrimary {
+  color: #3f51b5;
+  border: 1px solid rgba(63, 81, 181, 0.5);
+  width: 200px;
+}
+
+.MuiButton-outlinedSecondary {
+  color: #f50057;
+  border: 1px solid rgba(245, 0, 87, 0.5);
+  width: 200px;
+}
+
+.button-button {
+  border: 1px solid rgb(9, 173, 16);
+  padding: 5px 15px;
+  background-color: rgb(9, 173, 16);
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  width: 100px;
+  border-radius: 5px;
+}
+
+.button-disabled {
+  border: 1px solid rgb(128, 128, 128);
+  padding: 5px 15px;
+  background-color: rgb(128, 128, 128);
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  width: 200px;
+  border-radius: 5px;
+}
+
+.back-button {
+  border: 1px solid rgb(9, 173, 16);
+  padding: 5px 15px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  width: 100px;
+  border-radius: 5px;
+}
+
+.back-button-style-create-form {
+  position: fixed;
+  bottom: 5px;
+  left: 15px;
+}
+
+div.ReactTags__tagInput input.ReactTags__tagInputField,
+div.ReactTags__tagInput input.ReactTags__tagInputField:focus {
+  height: 31px;
+  margin: 0;
+  font-size: 15px;
+  /* border: 1px solid #eee; */
+  border: none;
+  background-color: #fafafa;
+  padding: 0 4px;
+  outline: 0;
+  width: 107%;
+}

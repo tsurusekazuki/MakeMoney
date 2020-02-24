@@ -1,0 +1,66 @@
+.card {
+  background-color: #cfcfcf;
+  border: 5px solid #eaeaea;
+  height: 100%;
+}
+
+.money {
+  background-color: #969696;
+  padding: 5px 19px;
+  border-top-right-radius: 8px;
+  -webkit-border-top-right-radius: 8px;
+  -moz-border-radius-topleft: 8px;
+  border-bottom-right-radius: 8px;
+  -webkit-border-bottom-right-radius: 8px;
+  -moz-border-radius-bottomleft: 8px;
+  font-weight: bold;
+  color: white;
+}
+
+.before {
+  background-color: #4842ff;
+  color: white;
+  font-weight: bold;
+  font-size: 13px;
+  margin: 0px;
+  text-align: center;
+}
+
+.after {
+  background-color: #f54f26;
+  color: white;
+  font-weight: bold;
+  font-size: 13px;
+  margin: 0px;
+  text-align: center;
+}
+
+.object-fit {
+  object-fit: cover;
+}
+
+.relative {
+  position: relative;
+}
+
+.favorite-icon {
+  position: absolute;
+  right: 20px;
+  bottom: 15px;
+  height: 26px;
+}
+
+.title-postElement {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.favorite-count {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.purchase-button {
+  display: inline;
+}

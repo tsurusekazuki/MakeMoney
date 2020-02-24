@@ -1,0 +1,13 @@
+.spinner-css {
+  background-color: white;
+  width: 100vw;
+  height: 100vh;
+}
+
+.spinner-css2 {
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 20000;
+}
